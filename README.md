@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @Sanket8228
-- 👀 I’m interested in Data Analytics / Data Science.
+- 👀 I’m interested in Data Analytics / Data Science & Looking for Better opportunity in same
 - 🌱 I’m currently learning Python, Advance Excel, SQL, Power-Bi, Tableau.
 - 📫 How to reach me mail Sanketgawade958@gmail.com
 
